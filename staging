@@ -1,0 +1,6 @@
+[local]
+localhost
+
+[launched]
+ec2-52-36-43-60.us-west-2.compute.amazonaws.com ansible_ssh_private_key_file=~/.ssh/simholte-default-uswest2.pem
+
